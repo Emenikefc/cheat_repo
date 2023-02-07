@@ -1,2 +1,2 @@
-# nothimg special om this repo 
-just testing the ide of creating repositories locally
+# nothing special on this repo 
+just testing the idea of creating repositories locally
